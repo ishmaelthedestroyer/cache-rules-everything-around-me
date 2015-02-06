@@ -14,6 +14,7 @@ Status
 
 ```
 {
+  id: <Number>
   created: <Date>
   user: <String> // user id
   text: <String>
