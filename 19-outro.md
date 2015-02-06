@@ -5,4 +5,4 @@ Thanks!
     - **Twitter** @CTRLLA<br />
     - **GitHub** @CTRLLA<br />
     - **GitHub** @ishmaelthedestroyer<br />
-    - **Website** http://ctrl.la<br />j
+    - **Website** http://ctrl.la<br />
