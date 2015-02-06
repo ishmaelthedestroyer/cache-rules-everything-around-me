@@ -13,4 +13,9 @@ About
         - MongoDB<br />
         - Express.js<br />
         - Angular.js<br />
-        - Node.js, plaform built on Chrome's Javascript runtime<br />
+        - Node.js, plaform built on Chrome's Javascript runtime<br /><br />
+**Contact**<br />
+    - **Twitter** @CTRLLA
+    - **GitHub** @CTRLLA
+    - **GitHub** @ishmaelthedestroyer
+    - **Website** http://ctrl.la
